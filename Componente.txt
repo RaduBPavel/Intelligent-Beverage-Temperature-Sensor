@@ -1,0 +1,9 @@
+* Plăcuță Arduino UNO
+* Senzor de temperatură impermeabil DS18B20
+* Senzor de temperatură normal DS18B20
+* LCD 1602
+* 2 * Potențiometru Stereo 10K
+* LED RGB cu catod comun
+* 2 rezistențe 4.7K Ohm, 3 rezistențe 220 Ohm
+* Fire conectoare
+* Breadboard
